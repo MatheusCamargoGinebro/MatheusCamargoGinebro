@@ -8,7 +8,7 @@
 
 <div style "">
   <img width=50% src="https://github-readme-stats.vercel.app/api?username=MatheusCamargoGinebro&theme=dark&show_icons=true&bg_color=0D1117&border_color=30312E&text_color=B9B9B9&border_radius=2&icon_color=015910&ring_color=02FF2C&rank_icon=github">
-  <img align="right" width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCamargoGinebro&hide_progress=false&layout=compact&bg_color=0D1117&border_color=30312E&text_color=B9B9B9&border_radius=2&title_color=E1E1E1&custom_title=Camargo's+Languages+Stats">
+  <img align="right" width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCamargoGinebro&hide_progress=false&layout=compact&bg_color=0D1117&border_color=30312E&text_color=B9B9B9&border_radius=2&title_color=E1E1E1&custom_title=Camargo's+Languages+Stats">
 </div>
 
 
