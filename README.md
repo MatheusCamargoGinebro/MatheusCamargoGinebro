@@ -1,4 +1,4 @@
-'<div align="center">
+<div align="center">
  
  ## O Verdadeiro desenvolvimento são as amizades que fazemos no meio do caminho!
 </div>
