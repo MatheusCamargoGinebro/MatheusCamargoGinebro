@@ -116,7 +116,6 @@ A platform developed at **IFSP – Campinas** to manage chemistry laboratories. 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusCamargoGinebro)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuscginrbro@gmail.com)  
 
----
 
 ⚡ *“Technology is about solving problems in a smart and accessible way. My goal is to learn, share, and build solutions that make a difference.”*  
 
