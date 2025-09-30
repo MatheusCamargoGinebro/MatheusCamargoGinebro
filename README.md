@@ -165,9 +165,4 @@ A platform developed at **IFSP – Campinas** to manage chemistry laboratories. 
   <img align="right" width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCamargoGinebro&hide_progress=false&layout=compact&bg_color=0D1117&border_color=30312E&text_color=B9B9B9&border_radius=2&title_color=E1E1E1&custom_title=Camarg0vs's+Languages+Stats">
 </div>
 
-## 🐍 GitHub Activity Graph
-
-![snake animation](https://github.com/MatheusCamargoGinebro/MatheusCamargoGinebro/blob/output/github-contribution-grid-snake2.svg)
-
-
 --- 
