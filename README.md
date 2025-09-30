@@ -18,16 +18,9 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    </p>
-  </div>
-
-  <!-- Databases -->
-  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
-    <h3>🗄 Databases</h3>
-    <p>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </p>
   </div>
@@ -91,7 +84,6 @@ A platform developed at **IFSP – Campinas** to manage chemistry laboratories. 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
----
 
 ### ⚙️ Backend & APIs
 - **[Node.js](https://github.com/MatheusCamargoGinebro/APIFlab_v2.0)** – backend server development  
@@ -104,16 +96,6 @@ A platform developed at **IFSP – Campinas** to manage chemistry laboratories. 
   <img src="https://img.shields.io/badge/REST_API-orange?style=for-the-badge"/>
 </p>
 
----
-
-### 🗄 Databases
-- **[MySQL](https://github.com/MatheusCamargoGinebro/APIFlab_v2.0)** – relational database management for projects like IFLab  
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
 
 ### 🖥 Systems & Networking
 - **[Linux](https://github.com/MatheusCamargoGinebro)** – system setup and administration  
@@ -125,21 +107,6 @@ A platform developed at **IFSP – Campinas** to manage chemistry laboratories. 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-blue?style=for-the-badge"/>
 </p>
-
----
-
-### 🚀 Projects & Dev Practices
-- **[Git & GitHub](https://github.com/MatheusCamargoGinebro)** – version control, collaboration, and workflow management  
-- **[UI/UX Basics](https://github.com/MatheusCamargoGinebro/iflab)** – creating intuitive interfaces  
-- **[Project Management](https://github.com/MatheusCamargoGinebro/votation-system)** – organizing tasks, iterations, and team collaboration  
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI/UX-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project_Management-0078D7?style=for-the-badge"/>
-</p>
-
 
 ---
 
